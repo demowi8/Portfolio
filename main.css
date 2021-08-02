@@ -1,0 +1,18 @@
+
+body {
+    background: rgb(241, 239, 68);
+    font-family: 'Roboto', sans-serif;
+}
+/* Main Heading Font */
+.m-heading {
+    font-family: 'Staatliches', cursive;
+}
+
+.navigation-link {
+    border: 2px solid transparent;
+}
+.navigation-link:hover{
+    text-decoration: none;
+    border-bottom: 2px solid whitesmoke;
+    transition: 0.2s ease;
+}
